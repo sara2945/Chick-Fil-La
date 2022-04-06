@@ -26,6 +26,7 @@ header {
         padding-left: 240px;
         padding-top: 5px;
         padding-bottom:5px;
+        background-size: 200px 150px
 }
 header a { text-decoration: none;}
 header a:link        {color: #231814;}
